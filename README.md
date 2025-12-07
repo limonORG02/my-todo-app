@@ -37,7 +37,7 @@ MyTodoApp/
 │  ├─ build_apk_arch.sh
 │  ├─ run_emulator.sh
 ```
-⚙️### Требования
+## Требования
 
 Android Studio 2022+
 
