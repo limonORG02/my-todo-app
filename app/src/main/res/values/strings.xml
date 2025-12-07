@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTodoApp</string>
+    <string name="add_task">Добавить</string>
+    <string name="placeholder_task">Введите задачу</string>
+    <string name="todo_list">Список дел</string>
+    <string name="shopping_list">Список покупок</string>
+</resources>
+
